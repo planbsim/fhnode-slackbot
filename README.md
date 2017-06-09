@@ -1,0 +1,2 @@
+# fhnode-slackbot
+slackbot example
